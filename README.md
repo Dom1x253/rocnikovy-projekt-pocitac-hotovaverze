@@ -105,7 +105,7 @@ Také jsem si díky rozebrání celého počítače aspoň mohl vyčistit jednot
 
 V tomto ročníkovém projektu jsem popsal základní postup rozebrání stolního počítače. Tento postup umožňuje bezpečnou údržbu, čištění a výměnu hardwarových součástek. Při práci s počítačovým hardwarem jsem se naučil že to vyžaduje pečlivost a dodržování bezpečnostních zásad.
 
-📚 Použité zdroje
+## 📚 Použité zdroje
 
 (1) LINUS TECH TIPS. How to Build a PC (Beginners Guide). Online. © 2023.
 Dostupné z: https://www.youtube.com/watch?v=BL4DCEp7blY
