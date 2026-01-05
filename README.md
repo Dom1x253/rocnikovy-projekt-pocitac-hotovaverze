@@ -107,7 +107,7 @@ V tomto ročníkovém projektu jsem popsal základní postup rozebrání stolní
 
 ---
 
-## 📚 Použité zdroje
+## 📚 Doporučená literatura
 
 (1) LINUS TECH TIPS. How to Build a PC (Beginners Guide). Online. © 2023.
 Dostupné z: https://www.youtube.com/watch?v=BL4DCEp7blY
