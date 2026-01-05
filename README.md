@@ -119,6 +119,11 @@ Dostupné z: http://www.servispckupka.cz/jak_rozebrat_notebook.php
 .
 [cit. 2025-01-05].
 
+(3) ALZA.CZ. Jak vyčistit počítač nejen od prachu? (návod). Online. © 2021.
+Dostupné z: https://www.alza.cz/jak-vycistit-pocitac
+.
+[cit. 2025-01-05].
+
 ---
 
 
