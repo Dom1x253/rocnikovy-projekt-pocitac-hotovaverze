@@ -92,6 +92,31 @@ Před rozebráním počítače je nutné dodržet následující bezpečnostní 
 - Ztráta šroubků
 
 ---
+## 🧼 Čištění počítače
+
+Po rozebrání počítače jsem přistoupil k jeho čištění. Čištění je důležité pro správné chlazení komponentů a delší životnost celého počítače.
+
+### 🧹 Postup čištění
+
+### 1️⃣ Příprava na čištění
+Nejdříve jsem se ujistil, že je počítač kompletně vypnutý a odpojený od elektrické sítě. Jednotlivé komponenty jsem měl vyndané ze skříně, aby se k nim dalo dobře dostat.
+
+### 2️⃣ Čištění skříně počítače
+Nejdříve jsem vyčistil samotnou skříň počítače. Pomocí suchého hadříku jsem setřel prach z vnitřních stěn skříně. Na hůře dostupná místa jsem použil stlačený vzduch z kompresoru. Musel jsem být opatrný jelikož u kompresoru bylo riziko že tam bude moc vysoký tlak.
+
+### 3️⃣ Čištění ventilátorů
+Poté jsem se zaměřil na ventilátory. Pomocí stlačeného vzduchu jsem z nich odstranil prach. Při čištění jsem ventilátory přidržoval, aby se zbytečně neroztočily a nepoškodily.
+
+### 4️⃣ Čištění napájecího zdroje
+Napájecí zdroj jsem neotevíral. Prach jsem z něj odstranil pouze pomocí stlačeného vzduchu přes větrací otvory, abych předešel jeho poškození.
+
+### 5️⃣ Čištění základní desky a ostatních komponentů
+Základní desku, grafickou kartu a RAM paměti jsem čistil velmi opatrně pomocí stlačeného vzduchu. Nedotýkal jsem se kontaktů a dával jsem pozor, abych žádnou součástku nepoškodil.
+
+### 6️⃣ Kontrola po vyčištění
+Po dokončení čištění jsem zkontroloval, zda v počítači nezůstaly žádné nečistoty nebo zapomenuté předměty. Teprve poté jsem mohl přistoupit ke zpětnému složení počítače.
+
+---
 
 ## 📦 Zpětné složení počítače
 
