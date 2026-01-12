@@ -114,7 +114,7 @@ Napájecí zdroj jsem neotevíral. Prach jsem z něj odstranil pouze pomocí stl
 Základní desku, grafickou kartu a RAM paměti jsem čistil velmi opatrně pomocí stlačeného vzduchu. Nedotýkal jsem se kontaktů a dával jsem pozor, abych žádnou součástku nepoškodil.
 
 ### 6️⃣ Kontrola po vyčištění
-Po dokončení čištění jsem zkontroloval, zda v počítači nezůstaly žádné nečistoty nebo zapomenuté předměty. Teprve poté jsem mohl přistoupit ke zpětnému složení počítače.
+Po dokončení čištění jsem zkontroloval, zda v počítači nezůstaly žádné nečistoty nebo  jestli jsem tam nezapoměl nějaké použité předměty. Teprve poté jsem mohl přistoupit ke zpětnému složení počítače.
 
 ---
 
